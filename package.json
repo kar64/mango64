@@ -1,5 +1,6 @@
 {
   "name": "redmango",
+  "homepage":"https://kar64.github.io/mango64",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
